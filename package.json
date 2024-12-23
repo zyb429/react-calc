@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://zyb429.github.io/react-calc",
+  "homepage": "https://zyb429.github.io/react-calc/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
